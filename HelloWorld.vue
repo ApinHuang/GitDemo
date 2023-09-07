@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>換標題</h1>
+    <h1>標題</h1>
   </div>
 </template>
 
