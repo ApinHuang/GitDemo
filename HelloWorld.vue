@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>換標題</h1>
-
+    <h2>副標題</h2>
   </div>
 </template>
 
