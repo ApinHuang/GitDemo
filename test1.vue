@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>新增test1標題</h1>
+    <h2>新增副標題</h2>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
